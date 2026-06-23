@@ -4,8 +4,6 @@
 
 Revolutionizing Digital Agencies with Artificial Intelligence
 
-![Last Commit](https://img.shields.io/github/last-commit/harishh-codes/agency-ai?style=flat-square)
-![Languages](https://img.shields.io/github/languages/top/harishh-codes/agency-ai?style=flat-square&color=blue)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -40,8 +38,6 @@ Visit the 👉 [_LINK 🔗_](https://agencyai-opal.vercel.app/)
 - [Customization](#customization)
 - [Deployment](#deployment)
 - [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -156,8 +152,8 @@ agency-ai/
 1. Clone the repository:
 
 ```console
-git clone https://github.com/elyse502/agency-ai.git
-cd agency-ai
+https://github.com/harishh-codes/Agency.AI.git
+cd Agency.AI
 ```
 
 2. Install dependencies:
@@ -183,6 +179,7 @@ VITE_APP_TITLE="Agency AI"
 VITE_APP_DESCRIPTION="Modern AI agency landing page"
 VITE_CONTACT_EMAIL=your-email@example.com
 VITE_CONTACT_PHONE=+1234567890
+VITE_REACT_APP_WEB3FORMS_ACCESS_KEY=yourweb3formsaccesskey
 ```
 
 ---
