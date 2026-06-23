@@ -18,7 +18,7 @@ _Powered by modern technologies:_
 
 ## LIVE - DEMO 🌐
 
-Visit the 👉 [_LINK 🔗_](https://agencyai-opal.vercel.app/)
+Visit the 👉 [_LINK 🔗_](https://agencyaiharish.netlify.app/)
 
 </div>
 
